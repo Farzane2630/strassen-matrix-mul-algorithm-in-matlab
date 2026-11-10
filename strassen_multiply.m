@@ -22,6 +22,7 @@ function C = strassen_rec(A, B, cutoff)
 
     n = size(A, 1);
 
+    %base case of recursion
 
     if n <= cutoff
 
