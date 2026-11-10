@@ -2,15 +2,13 @@
 
 ### Algorithm Design & Analysis — University Coursework
 
-**Implementation:** MATLAB / GNU Octave  
+**Implementation:** MATLAB
 **Algorithm:** Strassen's Recursive Matrix Multiplication  
-**Purpose:** Understanding, implementing, and comparing Strassen's algorithm with conventional matrix multiplication.
+**Purpose:** Understanding and comparing Strassen's algorithm with conventional matrix multiplication.
 
 ---
 
-# 🇬🇧
-
-## 1. Project Overview
+# 1. Project Overview
 
 This project implements **Strassen's Matrix Multiplication Algorithm**, a divide-and-conquer algorithm that multiplies two square matrices using fewer recursive multiplications than the conventional matrix multiplication method.
 
@@ -18,7 +16,6 @@ The main objectives are:
 
 - Understand the mathematical foundation of Strassen's algorithm.
 - Learn how divide-and-conquer works in matrix multiplication.
-- Implement the algorithm using MATLAB / GNU Octave.
 - Compare its results with MATLAB's built-in matrix multiplication.
 - Measure and analyze execution time.
 - Investigate how matrix size and the recursion cutoff affect performance.
@@ -479,8 +476,6 @@ After studying and running this project, students should understand:
 10. How floating-point precision affects numerical results.
 
 ---
-
-# 🇮🇷
 
 ## ۱. معرفی پروژه
 
